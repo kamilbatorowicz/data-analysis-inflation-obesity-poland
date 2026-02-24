@@ -39,8 +39,3 @@ Wykorzystano **Macierz Korelacji**, by sprawdzić siłę zależności zmiennych:
 * Fakt, że społeczeństwo tyje pomimo rosnących cen nominalnych, sugeruje stosunkowo niską elastyczność cenową popytu na żywność. Konsumenci w odpowiedzi na inflację nie redukują spożycia kalorii, lecz najpewniej kierują się w stronę tańszych, bardziej przetworzonych produktów.
 * Z analizy wynika, że koszty usług i pracy rosną szybciej niż ceny pożywienia. To sprawia, że w ujęciu relatywnym kalorie wciąż pozostają bardzo łatwo dostępnym dobrem.
 * **Ostateczna konkluzja:** Polacy tyją, a ceny rosną, jednak statystyka udowadnia, że "Polacy tyją wolniej niż rosną ceny".
-
-## 📁 Sposób oddania i struktura plików
-Projekt został przygotowany w formie spakowanego katalogu (.zip) zgodnie z wymogami:
-* `PROJEKT_EDA.ipynb` - plik z Jupyter Notebook pełniący rolę głównego sprawozdania i zawierający cały kod w Pythonie, wykresy, wnioski oraz analizy statystyczne.
-* Pliki źrodłowe `.csv` - 3 pliki bazowe z danymi (2x GUS, 1x Lancet NCD) wykorzystane w projekcie.
